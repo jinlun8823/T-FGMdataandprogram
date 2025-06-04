@@ -2,7 +2,7 @@ File description:
 
 	This document is the related procedure for the paper "Trustworthy Flight Guidance Method for Civil Aircraft Autonomous Operation Based on 4D Trajectory - A Case Study of COMAC C919". We provide the main original data, Python code files, as well as related graphics and simulation programs in these files.
 
-	(1) File "1.OriginalATCdataAndProcess" is the text of the original controllor's instruction data, and the corresponding data processing programs.
+	(1) File "1.OriginalATCdataAndProcess" is the text of the original controller's instruction data, and the corresponding data processing programs.
 
 	(2) File "2. SetorsAndAirroutes of China"  includes the data of China's control areas, air-routes, and the corresponding decoding and visualization programs.
 
@@ -35,7 +35,7 @@ The function of this program is to classify control instructions according to th
 	"ANA567, descend to FL 177."  ==> [CLS] [OBJ]ANA567 [SEP] [REQ] descend [ACTION] to [STA]FL 177 [CLS]
 	"SIA783, climb to reach 9200 meters by LKO." ==> [CLS] [OBJ]SIA783 [SEP] [REQ] climb [ACTION] to [STA]reach 9200 meters [ACTION] by [STA]LKO [CLS]
 
-	The data obtained after labelling can be used for further Bert vectorization and LSTM model training.
+	The data obtained after labeling can be used for further Bert vectorization and LSTM model training.
 
 
 	(2) Description of file "2.SetorsAndAirroutesofChina":
