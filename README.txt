@@ -8,13 +8,13 @@ File description:
 
 	(3) File "3.Bert-LSTMmain"  is the main Bert LSTM method for model training and generating flight guidance instructions.
 
-	(4) File "4.Trajectory Feature Cognition" is a program for feature recognition of four-dimensional trajectory data.
+	(4) File "4.TrajectoryFeatureCognition" is a program for feature recognition of four-dimensional trajectory data.
 
 	(5) File "5.SimpleSimulatorforAircraftControl" is a simple aircraft simulation control model designed to provide a platform for scholars who do not have a simulator to guide and control aircraft simulation. The simulation of human-machine interaction control of the aircraft can be achieved through simple keyboard keys
 
 	(6) File "6.DrawFiguresinHorizontalVertical is the main trajectory visualization program
 
-	(7) File "7.Calculated Errors is a program for calculating trajectory control errors
+	(7) File "7.CalculatedErrors is a program for calculating trajectory control errors
 
 	In each subfile, there is a corresponding README description too, which includes the descriptions of the relevant data, functions, program execution order, and the output results.
 
