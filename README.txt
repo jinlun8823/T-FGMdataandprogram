@@ -4,7 +4,7 @@ File description:
 
 	(1) File "1.OriginalATCdataAndProcess" is the text of the original controller's instruction data, and the corresponding data processing programs.
 
-	(2) File "2.SetorsAndAirroutes of China" includes the data of China's control areas, air-routes, and the corresponding decoding and visualization programs.
+	(2) File "2.SetorsAndAirroutesofChina" includes the data of China's control areas, air-routes, and the corresponding decoding and visualization programs.
 
 	(3) File "3.Bert-LSTMmain" is the main Bert LSTM method for model training and generating flight guidance instructions.
 
