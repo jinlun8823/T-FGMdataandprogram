@@ -6,7 +6,7 @@ File description:
 
 	(2) File "2. SetorsAndAirroutes of China"  includes the data of China's control areas, air-routes, and the corresponding decoding and visualization programs.
 
-	(3) File "3.Implementation of Bert LSTMain"  is the main Bert LSTM method for model training and generating flight guidance instructions.
+	(3) File "3.Implementation of Bert-LSTMmain"  is the main Bert LSTM method for model training and generating flight guidance instructions.
 
 	(4) File "4.Trajectory Feature Cognition" is a program for feature recognition of four-dimensional trajectory data.
 
